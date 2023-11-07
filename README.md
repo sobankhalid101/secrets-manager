@@ -1,5 +1,5 @@
 # AWS Secrets Manager Terraform module
-
+# empty comment
 Terraform module which creates AWS Secrets Manager resources.
 
 ## Usage
